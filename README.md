@@ -14,7 +14,7 @@ This project is a fully responsive and modern personal portfolio website designe
 
 <h2>Live Preview</h2>
 <p>Live Website: <a href="#" target="_blank">Add your hosted link here</a></p>
-<p>GitHub Repository: <a href="#" target="_blank">Add your repo link here</a></p>
+<p>GitHub Repository: <a href="#" target="_blank">https://github.com/Kscharan25/My-Portfolio-website</a></p>
 
 <h2>Features</h2>
 <ul>
