@@ -37,7 +37,7 @@
     //view resume
 
     const viewResume=document.querySelector("#resumeBtn");
-    const resumePath="./images/FrontEndResume.pdf";
+    const resumePath="./images/CharanKSResume.pdf";
 
     viewResume.addEventListener("click", async()=>{
         viewResume.textContent="opening...";
